@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our playa slide!"
 ---
-Serenity Now!!
+Holla at ya boi
 Use the left arrow to go back!
